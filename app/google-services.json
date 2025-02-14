@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "88977855577",
+    "project_id": "soulmatchgpt",
+    "storage_bucket": "soulmatchgpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:5c6e0792b68e987af84d48",
+        "android_client_info": {
+          "package_name": "com.example.matrimony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:174318e50eb20c10f84d48",
+        "android_client_info": {
+          "package_name": "com.example.soul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:db955febd51c9d15f84d48",
+        "android_client_info": {
+          "package_name": "com.example.soul1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:41168e5337746122f84d48",
+        "android_client_info": {
+          "package_name": "com.example.tinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:d40228355f0d7844f84d48",
+        "android_client_info": {
+          "package_name": "com.kenstarry.harrypotter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:485647173faa8950f84d48",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.D3701616"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88977855577:android:0436ca0e3cc31732f84d48",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.api_and_permission"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsnJI-ZpHvDh6BaEsGKH04D8DqeM0jXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
